@@ -1,3 +1,3 @@
-`npm install` - instalar depências
+`npm install` - instalar todas depências
 
-`node index.js` - iniciar o projeto
+`node index.js` - inicializar o projeto
